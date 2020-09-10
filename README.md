@@ -7,4 +7,7 @@ Shoot the aliens coming towards the ship and save the ship to get destroyed.
 To install pygame, first you need to install some packages using following command:
 <pre>sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev</pre>
 Now you can install pygame using following command:
-<pre>pip install pygame</pre>
+<pre>pip3 install pygame</pre>
+## How to run
+Run the game using following command:
+<pre>python3 alien_invasion.py</pre>
